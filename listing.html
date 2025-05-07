@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="az">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Əmlak Elanı</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="listing-details" style="padding: 2rem"></div>
+    <script src="js/data.js"></script>
+    <script>
+  const params = new URLSearchParams(window.location.search);
+  const id = parseInt(params.get("id"));
+  const listing = listings.find((l) => l.id === id);
+  const container = document.getElementById("listing-details");
+
+  if (listing) {
+    let imagesHTML = "";
+    listing.image.forEach((img, index) => {
+      imagesHTML += `<img src="${img}" class="slide" style="display: ${index === 0 ? "block" : "none"};">`;
+    });
+
+    container.innerHTML = `
+  <h1>${listing.title}</h1>
+  <div class="slider">
+    ${imagesHTML}
+    <button class="prev">←</button>
+    <button class="next">→</button>
+  </div>
+  <div class="details-box">
+    <h3>${listing.price}</h3>
+    <p><strong>Ünvan:</strong> ${listing.location}</p>
+    <p><strong>Otaq sayı:</strong> ${listing.rooms}</p>
+    <p><strong>Rayon:</strong> ${listing.district}</p>
+    <p><strong>Ərazi:</strong> ${listing.area} m²</p>
+    <p><strong>Status:</strong> ${listing.status === "new" ? "Yeni tikili" : "Köhnə tikili"}</p>
+    <p>${listing.description}</p>
+    <a class="back-btn" href="index.html">← Geri qayıt</a>
+  </div>
+`;
+
+
+    let currentSlide = 0;
+    const slides = document.querySelectorAll(".slide");
+    document.querySelector(".next").addEventListener("click", () => {
+      slides[currentSlide].style.display = "none";
+      currentSlide = (currentSlide + 1) % slides.length;
+      slides[currentSlide].style.display = "block";
+    });
+    document.querySelector(".prev").addEventListener("click", () => {
+      slides[currentSlide].style.display = "none";
+      currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+      slides[currentSlide].style.display = "block";
+    });
+  } else {
+    container.innerHTML = "<p>Elan tapılmadı.</p>";
+  }
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="az">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QEDİMBAKU | Əmlak Elanları</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
+  </head>
+  <body>
+    <header class="hero">
+      <div class="container hero-container">
+        <h1>QƏDİM  BAKU</h1>
+        <h2>Ev alqı-satqısı</h2>
+        <h3>kirayəsi</h3>
+        <p>
+          Bakıda satışda olan ən prestijli evlər sizə təqdim olunur. Yüksək
+          keyfiyyət, ideal yerləşim və sərfəli qiymətlərlə yeni evinizi tapın!
+        </p>
+      </div>
+    </header>
+
+    <section class="filter-section">
+      <div class="container filter-container">
+        <form id="filterForm" class="filter-form">
+          <div class="filter-group">
+            <select id="typeFilter">
+              <option value="">Satış növü</option>
+              <option value="satış">Alış</option>
+              <option value="kirayə">Kirayə</option>
+            </select>
+    
+            <select id="roomFilter">
+              <option value="">Otaq sayı</option>
+              <option value="1">1 otaq</option>
+              <option value="2">2 otaq</option>
+              <option value="3">3 otaq</option>
+              <option value="4">4+ otaq</option>
+            </select>
+    
+            <select id="districtFilter">
+              <option value="">Rayon</option>
+              <option value="Səbail">Səbail</option>
+              <option value="Yasamal">Yasamal</option>
+              <option value="Nəsimi">Nəsimi</option>
+            </select>
+    
+            <select id="statusFilter">
+              <option value="">Yeni / Köhnə</option>
+              <option value="new">Yeni</option>
+              <option value="old">Köhnə</option>
+            </select>
+          </div>
+    
+          <div class="filter-group">
+            <input type="number" id="minPrice" placeholder="Min qiymət" />
+            <input type="number" id="maxPrice" placeholder="Max qiymət" />
+            <input type="number" id="minArea" placeholder="Min m²" />
+            <input type="number" id="maxArea" placeholder="Max m²" />
+          </div>
+    
+          <div class="filter-submit">
+            <button type="submit">🔍 Filtrlə</button>
+          </div>
+        </form>
+      </div>
+    </section>
+    
+    
+    
+
+    <section class="listings-section">
+      <div class="container listings-container" id="listings"></div>
+    </section>
+
+    <section class="about-section">
+      <div class="container about-container">
+        <div class="about-text">
+          <h2>Haqqımızda</h2>
+          <p>
+            QədimBaku – Azərbaycanda geniş seçim təklif edən əmlak alqı-satqı platformasıdır. Satmaq, almaq və ya kirayə vermək istədiyiniz mülkləri burada asanlıqla tapa bilərsiniz.
+          </p>
+        </div>
+        <div class="about-image">
+          <img src="images/haqqinda.png" alt="Baku Skyline" />
+        </div>
+      </div>
+    </section>
+    
+
+    <section class="contact-section" id="contact">
+      <div class="container contact-container">
+        <h2>Bizimlə Əlaqə</h2>
+    
+        <div class="contact-content">
+          <form class="contact-form" method="POST" action="https://script.google.com/macros/s/AKfycbyTot34LeqqSW7rAtDSy9Bb6HApT-MBhdYMyl-wApqp-Q1Aksncr9bWvGXuZesnXNFP/exec">
+            <input name="name" type="text" placeholder="Adınız" required />
+            <input name="email" type="email" placeholder="Email ünvanınız" required />
+            <textarea name="message" rows="5" placeholder="Mesajınız" required></textarea>
+            <button type="submit">Göndər</button>
+    
+            <div class="contact-info">
+              <p><i class="fas fa-envelope"></i> info@qadimbaku.az</p>
+              <p><i class="fas fa-phone-alt"></i> +994 51 595 89 87 - Fərahim bəy</p>
+              <p><i class="fas fa-phone-alt"></i> +994 55 271 59 90 - Şamil bəy</p>
+              <p><i class="fas fa-phone-alt"></i> +994 55 271 59 91 - Nahid bəy</p>
+            </div>
+            
+          </form>
+    
+          <div class="map-container">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.5554066113337!2d49.8351932154103!3d40.366617979370085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307db0a34a8d75%3A0x9d9e5a7c3a087c2c!2sFlame%20Towers!5e0!3m2!1sen!2saz!4v1629726149519!5m2!1sen!2saz"
+              width="100%"
+              height="300"
+              style="border: 0"
+              allowfullscreen=""
+              loading="lazy">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+
+    <footer>
+      <div class="container footer-container">
+        <p>&copy; 2025 QƏDİMBAKU. Bütün huquqlar qorunur.</p>
+      </div>
+    </footer>
+    
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+    
+  </body>
+</html>
