@@ -68,4 +68,18 @@ const listings = [
     image: ["images/ev2.jpg", "images/ev1-2.jpg", "images/ev1-3.jpg"],
     description: "Möhtəşəm şəhər mənzərəsi ilə rahat mənzil.",
   },
+
+  {
+    id: 6,
+    title: "2 otaqlı mənzil - Alov Qüllələri",
+    type: "kirayə",
+    price: "20,000 AZN",
+    location: "Bakı, Səbail",
+    district: "Nizami",
+    area: 150, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/Samilin-evi/ev1.jpg", "images/ev1-2.jpg", "images/ev1-3.jpg"],
+    description: "Möhtəşəm şəhər mənzərəsi ilə rahat mənzil.",
+  },
 ];

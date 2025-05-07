@@ -3,12 +3,13 @@ const container = document.getElementById('listings');
 // Əsas render funksiyası
 function renderListings(data) {
   container.innerHTML = ''; // əvvəlki elanları sil
+
   if (data.length === 0) {
     container.innerHTML = '<p>Uyğun elan tapılmadı.</p>';
     return;
   }
 
-  data.forEach(item => {
+  data.slice().reverse().forEach(item => {  // <-- slice().reverse() istifadə et
     const card = document.createElement('div');
     card.className = 'card';
     card.innerHTML = `
@@ -23,6 +24,7 @@ function renderListings(data) {
     container.appendChild(card);
   });
 }
+
 
 // Qiymət stringindən rəqəm çıxarma funksiyası (məsələn: "450,000 AZN" → 450000)
 function parsePrice(priceString) {
