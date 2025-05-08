@@ -1,0 +1,14 @@
+Giti ac ve ardicilligi ele 
+
+
+git add .
+
+git commit -m "Real estate v1.5"
+
+git push
+
+
+
+
+
+https://github.com/Shamilseferov/qedimbaku-website
