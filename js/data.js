@@ -86,7 +86,7 @@ const listings = [
     area: 73, // kvadrat metr
     rooms: 2,
     status: "new",
-    image: ["images/kristal-16-6-2den3--73-186000/1.jpeg", "images/kristal-16-6-2den3--73-186000/2.jpeg", "images/kristal-16-6-2den3--73-186000/3.jpeg", "images/kristal-16-6-2den3--73-186000/4.jpeg", "images/kristal-16-6-2den3--73-186000/5.jpeg", "images/kristal-16-6-2den3--73-186000//6.jpeg", "images/kristal-16-6-2den3--73-186000//7.jpeg", "images/kristal-16-6-2den3--73-186000/8.jpeg"],
+    image: ["images/16-6-2-73-186000/1.jpeg", "images/16-6-2-73-186000/2.jpeg", "images/16-6-2-73-186000/3.jpeg", "images/16-6-2-73-186000/4.jpeg", "images/16-6-2-73-186000/5.jpeg", "images/16-6-2-73-186000//6.jpeg", "images/16-6-2-73-186000//7.jpeg", "images/16-6-2-73-186000/8.jpeg"],
     description: "Satılır 2-3 otaqlı yeni tikili 73 m², Yasamal q." + "<br> </br> "+ "Kristal Abşeron Zefir Mall, 161 və 133 nömrəli məktəbin yanında 16 Mərtəbəli binanın 6-cı mərtəbəsində 73kv olan 2 otaqdan 3 otağa təmirli mənzil satılır. Çıxarış (Kupça), texpasport var. Sənədləri qaydasındadır. Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. 186min manat. Ofisin xidmət haqqı 1 %",
   
   },
