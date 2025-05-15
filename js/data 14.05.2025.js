@@ -10,7 +10,7 @@ const listings = [
     area: 65, // kvadrat metr
     rooms: 2,
     status: "new",
-    image: ["images/9-6-2 155000/Satilib.jpeg", "images/9-6-2 155000/2.jpeg", "images/9-6-2 155000/3.jpeg", "images/9-6-2 155000/4.jpeg", "images/9-6-2 155000/5.jpeg", "images/9-6-2 155000/6.jpeg", "images/9-6-2 155000/7.jpeg", "images/9-6-2 155000/8.jpeg", "images/9-6-2 155000/9.jpeg", "images/9-6-2 155000/10.jpeg", "images/9-6-2 155000/11.jpeg", "images/9-6-2 155000/12.jpeg", "images/9-6-2 155000/13.jpeg", "images/9-6-2 155000/14.jpeg", "images/9-6-2 155000/15.jpeg"],
+    image: ["images/9-6-2 155000/1.jpeg", "images/9-6-2 155000/2.jpeg", "images/9-6-2 155000/3.jpeg", "images/9-6-2 155000/4.jpeg", "images/9-6-2 155000/5.jpeg", "images/9-6-2 155000/6.jpeg", "images/9-6-2 155000/7.jpeg", "images/9-6-2 155000/8.jpeg", "images/9-6-2 155000/9.jpeg", "images/9-6-2 155000/10.jpeg", "images/9-6-2 155000/11.jpeg", "images/9-6-2 155000/12.jpeg", "images/9-6-2 155000/13.jpeg", "images/9-6-2 155000/14.jpeg", "images/9-6-2 155000/15.jpeg"],
     description: "Satılır 2 otaqlı yeni tikili 65 m², Yasamal q." + "<br> </br> "+ "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 9 Mərtəbəli binanın 6-cımərtəbəsində 65kv olan 2 otaq təmirli mənzil satılır. Qanuni 2 otaqdır. Çıxarış (Kupça), texpasport var. Sənədləri qaydasındadır. Göl mənzərəli mənzil. Kombi sistemi, Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. 155min manat. Ofisin xidmət haqqı 1 %",
   
   },
@@ -31,6 +31,7 @@ const listings = [
   
   },
 
+
    {
     id: 3,
     title: "2 otaqlı mənzil - MİDA Yaşayış Kompleksi",
@@ -41,9 +42,10 @@ const listings = [
     area: 65, // kvadrat metr
     rooms: 2,
     status: "new",
-    image: ["images/12-5-2-158000/1.jpeg", "images/12-5-2-158000/2.jpeg", "images/12-5-2-158000/3.jpeg", "images/12-5-2-158000/4.jpeg", "images/12-5-2-158000/5.jpeg", "images/12-5-2-158000/6.jpeg", "images/12-5-2-158000/7.jpeg", "images/images/12-5-2-158000/8.jpeg", "images/12-5-2-158000/9.jpeg"],
-    description: "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 12 Mərtəbəli binanin 5-ci mərtəbəsində 65kv olan 2 otaq təmirli mənzil satılır. Qanuni 2 otaqdır. Çıxarış (Kupça), texpasport var. Sənədləri qaydasındadır. Kombi sistemi, Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. Qiymət 158min manat. Ofisin xidmət haqqı 1 %",
+    image: ["images/12-5-2 158000/1.jpeg", "images/12-5-2 158000/2.jpeg", "images/12-5-2 158000/3.jpeg", "images/12-5-2 158000/4.jpeg", "images/12-5-2 158000/5.jpeg", "images/12-5-2 158000/6.jpeg", "images/12-5-2 158000/7.jpeg", "images/images/12-5-2 158000/8.jpeg", "images/12-5-2 158000/9.jpeg"],
+    description: "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 12 Mərtəbəli binanin 10-cu mərtəbəsində 84kv olan 3 otaq təmirli mənzil satılır. Qanuni 3 otaqdır. Çıxarış (Kupça), texpasport var. Sənədləri qaydasındadır. Kombi sistemi, Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. Qiymət 200min manat. Ofisin xidmət haqqı 1 %",
   
   },
+  
  
 ];
