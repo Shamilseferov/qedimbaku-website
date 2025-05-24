@@ -168,4 +168,19 @@ const listings = [
 
   },
 
+        {
+    id: 12,
+    title: "3 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "200000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 84, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/9-9-3-200000/1.jpg", "images/9-9-3-200000/2.jpg", "images/9-9-3-200000/3.jpg", "images/9-9-3-200000/4.jpg", "images/9-9-3-200000/5.jpg", "images/9-9-3-200000/6.jpg", "images/9-9-3-200000/7.jpg", "images/9-9-3-200000/8.jpg", "images/9-9-3-200000/9.jpg", "images/9-9-3-200000/10.jpg", "images/9-9-3-200000/11.jpg"],
+    description: "Satılır 3 otaqlı yeni tikili 84 m², Yasamal q." + "<br> </br> "+ "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 9 Mərtəbəli binanın 9-cu mərtəbəsində 84kv olan 3 otaq təmirli mənzil satılır. Qanuni 3 otaqdır. Sənədləri qaydasındadır. Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yaxımlığından keçir. Qiymət 200min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
