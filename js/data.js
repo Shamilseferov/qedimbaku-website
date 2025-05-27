@@ -183,4 +183,34 @@ const listings = [
   
   },
 
+        {
+    id: 13,
+    title: "3 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "205000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 85, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/9-5-3-205000/1.jpeg", "images/9-5-3-205000/2.jpeg", "images/9-5-3-205000/3.jpeg", "images/9-5-3-205000/4.jpeg", "images/9-5-3-205000/5.jpeg", "images/9-5-3-205000/6.jpeg", "images/9-5-3-205000/7.jpeg", "images/9-5-3-205000/8.jpeg", "images/9-5-3-205000/9.jpeg", "images/9-5-3-205000/10.jpeg", "images/9-5-3-205000/11.jpeg"],
+    description: "Satılır 2 otaqlı yeni tikili 48 m², Yasamal q." + "<br> </br> "+ "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 9 Mərtəbəli binanın 5-ci mərtəbəsində 85kv olan 3 otaq təmirli mənzil satılır. Qanuni 3 otaqdır. Sənədləri qaydasındadır. Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yaxımlığından keçir. Qiymət 205min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
+          {
+    id: 14,
+    title: "2 otaqlı mənzil - Yasamal",
+    type: "satış",
+    price: "125000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 42.33, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/5-5-2-42.33-125000/1.jpeg", "images/5-5-2-42.33-125000/2.jpeg", "images/5-5-2-42.33-125000/3.jpeg", "images/5-5-2-42.33-125000/4.jpeg", "images/5-5-2-42.33-125000/5.jpeg", "images/5-5-2-42.33-125000/6.jpeg", "images/5-5-2-42.33-125000/7.jpeg", "images/5-5-2-42.33-125000/8.jpeg", "images/5-5-2-42.33-125000/9.jpeg", "images/5-5-2-42.33-125000/10.jpeg"],
+    description: "Satılır 2 otaqlı köhnə tikili 42.33 m², Yasamal q." + "<br> </br> "+ "Musabəyov parkına bir addımlıq məsafədə, xruşovka layihəli, 2 otaqlı, 42.33 kv, normal təmirli mənzil satılır! Mənzil 5 Mərtəbəli binanın 5-ci mərtəbəsində yerləşir. Qiymət 125min manat. Əlavə məlumat üçün əlaqə saxlamağınız yetərlidir. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
