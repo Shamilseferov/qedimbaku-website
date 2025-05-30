@@ -264,7 +264,7 @@ const listings = [
     type: "kirayə",
     price: "600 AZN",
     location: "Bakı, Nəsimi",
-    district: "Yasamal",
+    district: "Nəsimi",
     area: 54, // kvadrat metr
     rooms: 2,
     status: "new",
