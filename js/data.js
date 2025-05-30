@@ -258,4 +258,19 @@ const listings = [
   
   },
 
+     {
+    id: 18,
+    title: "2 otaqlı mənzil - XİM QARADOK",
+    type: "kirayə",
+    price: "600 AZN",
+    location: "Bakı, Nəsimi",
+    district: "Yasamal",
+    area: 54, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/Kiraye/16-8-2-54-600/1.jpeg", "images/Kiraye/16-8-2-54-600/2.jpeg", "images/Kiraye/16-8-2-54-600/3.jpeg", "images/Kiraye/16-8-2-54-600/4.jpeg", "images/Kiraye/16-8-2-54-600/5.jpeg", "images/Kiraye/16-8-2-54-600/6.jpeg", "images/Kiraye/16-8-2-54-600/7.jpeg", "images/Kiraye/16-8-2-54-600/8.jpeg", "images/Kiraye/16-8-2-54-600/9.jpeg", "images/Kiraye/16-8-2-54-600/10.jpeg", "images/Kiraye/16-8-2-54-600/11.jpeg", "images/Kiraye/16-8-2-54-600/12.jpeg", "images/Kiraye/16-8-2-54-600/13.jpeg", "images/Kiraye/16-8-2-54-600/14.jpeg"],
+    description: "Kirayə verilir 2 otaqlı 54 m², Nəsimi rayonu." + "<br> </br> "+ "Nəsimi rayonu H. Əliyev küçəsində 16 mərtəbəli binanın 8-ci mərtəbəsində 54kv 2 otaqlı mənzil 600 AZN (Kamunal daxil) kirayə verilir. Mənzil əla vəziyyətdədir. İstilik sistemi - KOMBİ. Bütün əşyalar ilə təmin olunub.  Ofisin xidmət haqqı 20 %",
+  
+ },
+
 ];
