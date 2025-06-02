@@ -137,23 +137,8 @@ const listings = [
 
   },
 
-      {
+          {
     id: 10,
-    title: "2 otaqlı mənzil - Kristal Abşeron",
-    type: "satış",
-    price: "132000 AZN",
-    location: "Bakı, Yasamal",
-    district: "Yasamal",
-    area: 48, // kvadrat metr
-    rooms: 2,
-    status: "new",
-    image: ["images/16-2-2-48-132000/1.jpeg", "images/16-2-2-48-132000/2.jpeg", "images/16-2-2-48-132000/3.jpeg", "images/16-2-2-48-132000/4.jpeg", "images/16-2-2-48-132000/5.jpeg", "images/16-2-2-48-132000/6.jpeg", "images/16-2-2-48-132000/7.jpeg", "images/16-2-2-48-132000/8.jpeg", "images/16-2-2-48-132000/9.jpeg", "images/16-2-2-48-132000/10.jpeg"],
-    description: "Satılır 2 otaqlı yeni tikili 48 m², Yasamal q." + "<br> </br> "+ "Kristal Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 16 Mərtəbəli binanın 2-ci mərtəbəsində 48kv olan 2 otaq təmirli mənzil satılır. Qanuni 2 otaqdır. Sənədləri qaydasındadır. Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yaxımlığından keçir. Qiymət 132min manat. Ofisin xidmət haqqı 1 %",
-  
-  },
-
-      {
-    id: 11,
     title: "3 otaqlı mənzil - MİDA Yaşayış Kompleksi",
     type: "kirayə",
     price: "700 AZN",
@@ -169,7 +154,7 @@ const listings = [
   },
 
         {
-    id: 12,
+    id: 11,
     title: "3 otaqlı mənzil - Mida Yasamal",
     type: "satış",
     price: "200000 AZN",
@@ -184,7 +169,7 @@ const listings = [
   },
 
         {
-    id: 13,
+    id: 12,
     title: "3 otaqlı mənzil - Mida Yasamal",
     type: "satış",
     price: "205000 AZN",
@@ -199,7 +184,7 @@ const listings = [
   },
 
           {
-    id: 14,
+    id: 13,
     title: "2 otaqlı mənzil - Yasamal",
     type: "satış",
     price: "125000 AZN",
@@ -214,7 +199,7 @@ const listings = [
   },
 
        {
-    id: 15,
+    id: 14,
     title: "2 otaqlı mənzil - Kristal Yasamal",
     type: "satış",
     price: "157000 AZN",
@@ -229,7 +214,7 @@ const listings = [
   },
 
      {
-    id: 16,
+    id: 15,
     title: "1 otaqlı mənzil - Mida Yasamal",
     type: "satış",
     price: "112000 AZN",
@@ -244,7 +229,7 @@ const listings = [
   },
 
       {
-    id: 17,
+    id: 16,
     title: "2 otaqlı mənzil - Mida Yasamal",
     type: "satış",
     price: "145000 AZN",
@@ -259,7 +244,7 @@ const listings = [
   },
 
      {
-    id: 18,
+    id: 17,
     title: "2 otaqlı mənzil - XİM QARADOK",
     type: "kirayə",
     price: "600 AZN",
@@ -274,7 +259,7 @@ const listings = [
  },
 
        {
-    id: 19,
+    id: 18,
     title: "2 otaqlı mənzil - Mida Yasamal",
     type: "satış",
     price: "158000 AZN",
