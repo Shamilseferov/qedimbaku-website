@@ -288,4 +288,19 @@ const listings = [
   
   },
 
+     {
+    id: 20,
+    title: "1 otaqlı mənzil - Kristal Yasamal",
+    type: "satış",
+    price: "135000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 45, // kvadrat metr
+    rooms: 1,
+    status: "new",
+    image: ["images/16-1-45-135000/1.jpeg", "images/16-1-45-135000/2.jpeg", "images/16-1-45-135000/3.jpeg", "images/16-1-45-135000/4.jpeg", "images/16-1-45-135000/5.jpeg", "images/16-1-45-135000/6.jpeg", "images/16-1-45-135000/7.jpeg", "images/16-1-45-135000/8.jpeg", "images/16-1-45-135000/9.jpeg", "images/16-1-45-135000/10.jpeg", "images/16-1-45-135000/11.jpeg", "images/16-1-45-135000/12.jpeg"],
+    description: "Satılır 1/2 otaqlı studio yeni tikili 45 m², Yasamal q." + "<br> </br> "+ "Kristal Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 16 Mərtəbəli binanın 1-ci mərtəbəsində 45kv olan 1-dən 2-yə düzəlmə studiolu otaq təmirli mənzil satılır. Sənədləri qaydasındadır. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yaxımlığından keçir. Qiymət 135min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
