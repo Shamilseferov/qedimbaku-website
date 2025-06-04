@@ -308,7 +308,7 @@ const listings = [
     title: "3 otaqlı mənzil - MİDA Hövsan",
     type: "satış",
     price: "108000 AZN",
-    location: "Bakı, Yasamal",
+    location: "Bakı, Hövsan",
     district: "Yasamal",
     area: 82, // kvadrat metr
     rooms: 3,
