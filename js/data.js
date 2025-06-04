@@ -303,4 +303,19 @@ const listings = [
   
   },
 
+     {
+    id: 21,
+    title: "3 otaqlı mənzil - MİDA Hövsan",
+    type: "satış",
+    price: "108000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 82, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/7-6-3-82-108000/1.jpeg", "images/7-6-3-82-108000/2.jpeg", "images/7-6-3-82-108000/3.jpeg", "images/7-6-3-82-108000/4.jpeg", "images/7-6-3-82-108000/5.jpeg", "images/7-6-3-82-108000/6.jpeg", "images/7-6-3-82-108000/7.jpeg", "images/7-6-3-82-108000/8.jpeg", "images/7-6-3-82-108000/9.jpeg", "images/7-6-3-82-108000/10.jpeg"],
+    description: "Satılır 3 otaqlı yeni tikili 65 m², Hövsan q." + "<br> </br> "+ "Hövsan yaşayış kompleksində 7 Mərtəbəli binanın 6-ci mərtəbəsində 82kv olan 3 otaq təmirli mənzil satılır. Sənədləri qaydasındadır. Kupçalı və ipotekaya yararlıdır. Qiymət 108min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
