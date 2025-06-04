@@ -309,7 +309,7 @@ const listings = [
     type: "satış",
     price: "108000 AZN",
     location: "Bakı, Hövsan",
-    district: "Yasamal",
+    district: "Hövsan",
     area: 82, // kvadrat metr
     rooms: 3,
     status: "new",
