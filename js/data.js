@@ -333,4 +333,19 @@ const listings = [
   
   },
 
+     {
+    id: 23,
+    title: "2 otaq studio mənzil - Melisa Park Yasamal",
+    type: "satış",
+    price: "160000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 50, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/21-16-2-50-160000/1.jpeg", "images/21-16-2-50-160000/2.jpeg", "images/21-16-2-50-160000/3.jpeg", "images/21-16-2-50-160000/4.jpeg", "images/21-16-2-50-160000/5.jpeg", "images/21-16-2-50-160000/6.jpeg", "images/21-16-2-50-160000/7.jpeg"],
+    description: "Satılır 2 otaqlı studio tikili 50 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, Melisa Park Kompleksində, 21 mərtəbəli binanın 16-cı mərtəbəsində 50 kvadrat metr sahəyə malik, studiolu 2 otaqlı, əla təmirli və əşyalı mənzil satılır. Mənzil qaz, su, işıq, lift və internetlə daimi təmin olunub. Sənədləri tam qaydasındadır. Ərazi 24/7 kamera müşahidəsi altındadır. Blok və həyət hər gün mütəmadi şəkildə təmizlənir. Nəqliyyat baxımından əlverişli yerdə yerləşir. Qiymət 160min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
