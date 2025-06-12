@@ -363,4 +363,20 @@ const listings = [
   
   },
 
+      {
+    id: 25,
+    title: "3 otaqlı mənzil - MİDA Yaşayış Kompleksi",
+    type: "kirayə",
+    price: "623 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 86, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/Kiraye/9-2-3-86-623/1.jpeg", "images/Kiraye/9-2-3-86-623/2.jpeg", "images/Kiraye/9-2-3-86-623/3.jpeg", "images/Kiraye/9-2-3-86-623/4.jpeg", "images/Kiraye/9-2-3-86-623/5.jpeg", "images/Kiraye/9-2-3-86-623/6.jpeg", "images/Kiraye/9-2-3-86-623/7.jpeg", "images/Kiraye/9-2-3-86-623/8.jpeg", "images/Kiraye/9-2-3-86-623/9.jpeg", "images/Kiraye/9-2-3-86-623/10.jpeg", "images/Kiraye/9-2-3-86-623/11.jpeg", "images/Kiraye/9-2-3-86-623/12.jpeg"],
+    description: "Kirayə verilir 3 otaqlı yeni tikili 86 m², Yasamal q." + "<br> </br> "+ "Mida Yasamal yaşayış kompleksi Zefir Mall, 161 və 133 nömrəli məktəbin yanında 9 mərtəbəli binanın 2-ci mərtəbəsində 86kv olan 3 otaq super təmirli mənzil ailəyə kirayə verilir. Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. Qiymət 623 AZN. Ofisin xidmət haqqı 20 %",
+  
+
+  },
+
 ];
