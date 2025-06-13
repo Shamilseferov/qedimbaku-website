@@ -379,4 +379,20 @@ const listings = [
 
   },
 
+        {
+    id: 26,
+    title: "2 otaqlı mənzil - MİDA Yaşayış Kompleksi",
+    type: "kirayə",
+    price: "600 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 65, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/Kiraye/10-5-2-65-600/1.jpeg", "images/Kiraye/10-5-2-65-600/2.jpeg", "images/Kiraye/10-5-2-65-600/3.jpeg", "images/Kiraye/10-5-2-65-600/4.jpeg", "images/Kiraye/10-5-2-65-600/5.jpeg", "images/Kiraye/10-5-2-65-600/6.jpeg", "images/Kiraye/10-5-2-65-600/7.jpeg", "images/Kiraye/10-5-2-65-600/8.jpeg", "images/Kiraye/10-5-2-65-600/9.jpeg"],
+    description: "Kirayə verilir 2 otaqlı yeni tikili 65 m², Yasamal q." + "<br> </br> "+ "Yasamal Rayon Müstəqillik küçəsi 3 Saylı Asan Xidmətin arxası Mida Yasamal Yaşayış Kompleksində 10 mərtəbəli binanın 5-ci mərtəbəsində yerləşən 2 otağlı mənzil AİLƏYƏ uzun müddətinə kirayə verilir. Kompleksin yaxınlığında Zefir mall, Marketlər, 161 və 133 nömrəli məktəblər, Baxçalar, Restoran, Avtobus dayanacaqları var. 7B , 9, 10 nömrəli avtobuslar kompleksdən şəhərin müxtəlif yerlərinə işləyirlər.. Qaz, Su, isiq daimidir. Bir söznən Kompleksdə infrastrktur yüksək səviyyədədir. Mətbəxt mebeli, soyuducu, paltaryuyan, Kondisioner ( 60kv), qaz peçi ,mətbəx mebeli, stol- stullar, Bazalı taxtı, paltar dolabı, 2 ədəd tumbuçka, 82 ekran TV, Wi-Fi, açılıb- bağlanan stol və stulları, divan-kreslo var. Mənzil kombi vasitəsilə isidilir. Mətbəx, hamam, kolidor isti poldur. Pəncərələr və balqon reşotkalanib. Qeyd: Şəkildəki divan kreslo dəyişilib. Qiymət 600 AZN. Ofisin xidmət haqqı 20 %",
+  
+
+  },
+
 ];
