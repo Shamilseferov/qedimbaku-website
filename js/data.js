@@ -406,7 +406,7 @@ const listings = [
     rooms: 1,
     status: "new",
     image: ["images/Kiraye/9-5-1-450/1.jpeg", "images/Kiraye/9-5-1-450/2.jpeg", "images/Kiraye/9-5-1-450/3.jpeg", "images/Kiraye/9-5-1-450/4.jpeg", "images/Kiraye/10-5-2-65-600/5.jpeg", "images/Kiraye/9-5-1-450/6.jpeg", "images/Kiraye/9-5-1-450/7.jpeg", "images/Kiraye/9-5-1-450/8.jpeg"],
-    description: "Kirayə verilir 1 otaqlı yeni tikili 65 m², Yasamal q." + "<br> </br> "+ "Yasamal Rayon Müstəqillik küçəsi 3 Saylı Asan Xidmətin arxası Mida Yasamal Yaşayış Kompleksində 9 mərtəbəli binanın 5-ci mərtəbəsində yerləşən 1 otaqlı mənzil AİLƏYƏ uzun müddətinə kirayə verilir. Kompleksin yaxınlığında Zefir mall, Marketlər, 161 və 133 nömrəli məktəblər, Baxçalar, Restoran, Avtobus dayanacaqları var. 7B , 9, 10 nömrəli avtobuslar kompleksdən şəhərin müxtəlif yerlərinə işləyirlər.. Qaz, Su, isiq daimidir. Bir söznən Kompleksdə infrastrktur yüksək səviyyədədir. Qiyət 450 AZN (Komendant xaric 10AZN). Ofisin xidmət haqqı 20 %",
+    description: "Kirayə verilir 1 otaqlı yeni tikili 45 m², Yasamal q." + "<br> </br> "+ "Yasamal Rayon Müstəqillik küçəsi 3 Saylı Asan Xidmətin arxası Mida Yasamal Yaşayış Kompleksində 9 mərtəbəli binanın 5-ci mərtəbəsində yerləşən 1 otaqlı mənzil AİLƏYƏ uzun müddətinə kirayə verilir. Kompleksin yaxınlığında Zefir mall, Marketlər, 161 və 133 nömrəli məktəblər, Baxçalar, Restoran, Avtobus dayanacaqları var. 7B , 9, 10 nömrəli avtobuslar kompleksdən şəhərin müxtəlif yerlərinə işləyirlər.. Qaz, Su, isiq daimidir. Bir söznən Kompleksdə infrastrktur yüksək səviyyədədir. Qiyət 450 AZN (Komendant xaric 10AZN). Ofisin xidmət haqqı 20 %",
   
 
   },
