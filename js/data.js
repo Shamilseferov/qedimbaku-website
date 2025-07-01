@@ -528,7 +528,7 @@ const listings = [
     rooms: 2,
     status: "new",
     image: ["images/20-2-2-95-185000/1.jpeg", "images/20-2-2-95-185000/2.jpeg", "images/20-2-2-95-185000/3.jpeg", "images/20-2-2-95-185000/4.jpeg", "images/20-2-2-95-185000/5.jpeg", "images/20-2-2-95-185000/6.jpeg", "images/20-2-2-95-185000/7.jpeg", "images/20-2-2-95-185000/8.jpeg", "images/20-2-2-95-185000/9.jpeg", "images/20-2-2-95-185000/10.jpeg", "images/20-2-2-95-185000/11.jpeg", "images/20-2-2-95-185000/12.jpeg", "images/20-2-2-95-185000/13.jpeg", "images/20-2-2-95-185000/14.jpeg", "images/20-2-2-95-185000/15.jpeg", "images/20-2-2-95-185000/16.jpeg"],
-    description: "Satılır 2 otaqlı yeni tikili 95 m², Həzi Aslanov" + "<br> </br> "+ "Həzi Aslanovda Gəncə prospekti Xətai Park Rezidensdə 20 mərtəbənin 2-ci mərtəbəsində 2 otaqlı tam təmirli və əşyalı, sahəsi 95kv (kupçada 78kv) olan mənzil satılır. Qiymət 185000m. Ofis haqqı 1%",
+    description: "Satılır 2 otaqlı yeni tikili 95 m², Həzi Aslanov" + "<br> </br> "+ "Həzi Aslanovda Gəncə prospekti Xətai Park Residence-də 20 mərtəbənin 2-ci mərtəbəsində 2 otaqlı tam təmirli və əşyalı, sahəsi 95kv (kupçada 78kv) olan mənzil satılır. Qiymət 185000m. Ofis haqqı 1%",
   
   },
 
