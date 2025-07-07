@@ -547,4 +547,34 @@ const listings = [
   
   },
 
+   {
+    id: 37,
+    title: "1 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "118000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 41, // kvadrat metr
+    rooms: 1,
+    status: "new",
+    image: ["images/9-2-1-41-118000/1.jpeg", "images/9-2-1-41-118000/2.jpeg", "images/9-2-1-41-118000/3.jpeg", "images/9-2-1-41-118000/4.jpeg", "images/9-2-1-41-118000/5.jpeg", "images/9-2-1-41-118000/6.jpeg", "images/9-2-1-41-118000/7.jpeg"],
+    description: "Satılır 1 otaqlı yeni tikili 41 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, MİDA Yasamal Yaşayış Kompleksində, Zefir Mall ticarət mərkəzi, 161 və 133 nömrəli məktəblərin yaxınlığında yerləşən 9 mərtəbəli binanın 2-ci mərtəbəsində 41 kvadrat metr sahəyə malik, qanuni 1 otaqlı, əla təmirli və əşyalı mənzil satılır. Mənzil qaz, su, işıq, lift və internetlə daimi təmin olunub. Sənədləri tam qaydasındadır. Bina geniş və səliqəli həyətə, park sahəsinə, besetkaya, pulsuz stadion və avtomobil saxlamaq üçün dayanacaq yerinə malikdir. Ərazi 24/7 kamera müşahidəsi altındadır və komendant tərəfindən nəzarət olunur. Blok və həyət hər gün mütəmadi şəkildə təmizlənir. Nəqliyyat baxımından əlverişli yerdə yerləşir – 7B, 9 və 10 nömrəli avtobus xətləri binanın yaxınlığından keçir. Qiymət 118min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
+    {
+    id: 38,
+    title: "1 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "116000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 41, // kvadrat metr
+    rooms: 1,
+    status: "new",
+    image: ["images/9-5-1-41-116000/1.jpeg", "images/9-5-1-41-116000/2.jpeg", "images/9-5-1-41-116000/3.jpeg", "images/9-5-1-41-116000/4.jpeg", "images/9-5-1-41-116000/5.jpeg", "images/9-5-1-41-116000/6.jpeg", "images/9-5-1-41-116000/7.jpeg", "images/9-5-1-41-116000/8.jpeg", "images/9-5-1-41-116000/9.jpeg", "images/9-5-1-41-116000/10.jpeg", "images/9-5-1-41-116000/11.jpeg", "images/9-5-1-41-116000/12.jpeg"],
+    description: "Satılır 1 otaqlı yeni tikili 41 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, MİDA Yasamal Yaşayış Kompleksində, Zefir Mall ticarət mərkəzi, 161 və 133 nömrəli məktəblərin yaxınlığında yerləşən 9 mərtəbəli binanın 5-ci mərtəbəsində 41 kvadrat metr sahəyə malik, qanuni 1 otaqlı, əla təmirli və əşyalı mənzil satılır. Mənzil qaz, su, işıq, lift və internetlə daimi təmin olunub. Sənədləri tam qaydasındadır. Bina geniş və səliqəli həyətə, park sahəsinə, besetkaya, pulsuz stadion və avtomobil saxlamaq üçün dayanacaq yerinə malikdir. Ərazi 24/7 kamera müşahidəsi altındadır və komendant tərəfindən nəzarət olunur. Blok və həyət hər gün mütəmadi şəkildə təmizlənir. Nəqliyyat baxımından əlverişli yerdə yerləşir – 7B, 9 və 10 nömrəli avtobus xətləri binanın yaxınlığından keçir. Qiymət 118min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
