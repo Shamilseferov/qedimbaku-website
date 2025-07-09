@@ -608,4 +608,19 @@ const listings = [
   
   },
 
+   {
+    id: 41,
+    title: "2 otaqlı mənzil - Yasamal",
+    type: "satış",
+    price: "305000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 110, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/15-9-110-305000/1.jpeg", "images/15-9-110-305000/2.jpeg", "images/15-9-110-305000/3.jpeg", "images/15-9-110-305000/4.jpeg", "images/15-9-110-305000/5.jpeg", "images/15-9-110-305000/6.jpeg", "images/15-9-110-305000/7.jpeg", "images/15-9-110-305000/8.jpeg", "images/15-9-110-305000/9.jpeg", "images/15-9-110-305000/10.jpeg", "images/15-9-110-305000/11.jpeg", "images/15-9-110-305000/12.jpeg", "images/15-9-110-305000/13.jpeg", "images/15-9-110-305000/14.jpeg", "images/15-9-110-305000/15.jpeg", "images/15-9-110-305000/16.jpeg", "images/15-9-110-305000/17.jpeg", "images/15-9-110-305000/18.jpeg", "images/15-9-110-305000/19.jpeg", "images/15-9-110-305000/20.jpeg", "images/15-9-110-305000/21.jpeg", "images/15-9-110-305000/22.jpeg", "images/15-9-110-305000/23.jpeg", "images/15-9-110-305000/24.jpeg"],
+    description: "Satılır 2 otaqlı yeni tikili 110 m², Yasamal q." + "<br> </br> "+ "Elmlər akademiyası metrosu yaxınlığında, Zahid Xəlilov 105 küçəsində, Ruzi MTK-da 15 mərtəbəli binanın 9-cu mərtəbəsində 2 otaqlı, 110kv super təmirli və əşyalı mənzil satılır. 24 saat işləyən market, avtobus dayanacağına 1 dəq məsafə. Start qiymət 305min manat. Real alıcıya endirim olunacaq. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
