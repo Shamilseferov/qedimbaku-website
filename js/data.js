@@ -623,4 +623,19 @@ const listings = [
   
   },
 
+   {
+    id: 42,
+    title: "3 otaqlı studio mənzil - Yasamal",
+    type: "satış",
+    price: "210000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 77.7, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/20-3-77.7-210000/1.jpeg", "images/20-3-77.7-210000/2.jpeg", "images/20-3-77.7-210000/3.jpeg", "images/20-3-77.7-210000/4.jpeg", "images/20-3-77.7-210000/5.jpeg", "images/20-3-77.7-210000/6.jpeg", "images/20-3-77.7-210000/7.jpeg", "images/20-3-77.7-210000/8.jpeg", "images/20-3-77.7-210000/9.jpeg", "images/20-3-77.7-210000/10.jpeg", "images/20-3-77.7-210000/11.jpeg", "images/20-3-77.7-210000/12.jpeg", "images/20-3-77.7-210000/13.jpeg", "images/20-3-77.7-210000/14.jpeg", "images/20-3-77.7-210000/15.jpeg", "images/20-3-77.7-210000/16.jpeg", "images/20-3-77.7-210000/17.jpeg", "images/20-3-77.7-210000/18.jpeg", "images/20-3-77.7-210000/19.jpeg", "images/20-3-77.7-210000/20.jpeg", "images/20-3-77.7-210000/21.jpeg", "images/20-3-77.7-210000/22.jpeg", "images/20-3-77.7-210000/23.jpeg", "images/20-3-77.7-210000/24.jpeg", "images/20-3-77.7-210000/25.jpeg"],
+    description: "Satılır 3 otaqlı studio yeni tikili 77.7 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, Abbas Mirzə Şərifzadə küç.241 Bina(B) 18/3 mərmərtəbəsində, AvantPark YK-da, 3 otaq studio mənzil 77.7kv satılır. Kompleksdə: uşaq bağçası, üzgüçülük hovuzu, idman zalı, həyətdə velo-zolaq və sair obyektlər olacaq. Qiymət 210000m. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
