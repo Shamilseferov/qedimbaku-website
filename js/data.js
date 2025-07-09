@@ -634,7 +634,7 @@ const listings = [
     rooms: 3,
     status: "new",
     image: ["images/17-13-150-380000/1.jpeg", "images/17-13-150-380000/2.jpeg", "images/17-13-150-380000/3.jpeg", "images/17-13-150-380000/4.jpeg", "images/17-13-150-380000/5.jpeg", "images/17-13-150-380000/6.jpeg", "images/17-13-150-380000/7.jpeg", "images/17-13-150-380000/8.jpeg", "images/17-13-150-380000/9.jpeg", "images/217-13-150-380000/10.jpeg", "images/17-13-150-380000/11.jpeg", "images/17-13-150-380000/12.jpeg", "images/17-13-150-380000/13.jpeg", "images/17-13-150-380000/14.jpeg", "images/17-13-150-380000/15.jpeg", "images/17-13-150-380000/16.jpeg", "images/17-13-150-380000/17.jpeg", "images/17-13-150-380000/18.jpeg", "images/17-13-150-380000/19.jpeg", "images/17-13-150-380000/20.jpeg", "images/17-13-150-380000/21.jpeg"],
-    description: "Satılır 3 otaqlı əşyalı yeni tikili 150 m², Nəsimi rayonu." + "<br> </br> "+ "Nəsimi rayonu, Akademik Feyzulla Qasımzadə küçəsi, giriş 46A ünvanında gözəl bir mənzilimiz satışa çıxmışdır. Qiymət 380min. Ofisin xidmət haqqı 1 %",
+    description: "Satılır 3 otaqlı əşyalı yeni tikili 150 m², Nəsimi rayonu." + "<br> </br> "+ "Nəsimi rayonu, Akademik Feyzulla Qasımzadə küçəsi, giriş 46A ünvanında gözəl bir mənzilimiz satışa çıxmışdır. Mənzil bütünlüklə isti pol və bahalı əşyalarla təchiz edilmişdir. Qiymət 380min. Ofisin xidmət haqqı 1 %",
   
   },
 
