@@ -668,4 +668,34 @@ const listings = [
   
   },
 
+  {
+    id: 45,
+    title: "1 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "119000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 40, // kvadrat metr
+    rooms: 1,
+    status: "new",
+    image: ["images/12-8-1-33-119000/1.jpeg", "images/12-8-1-33-119000/2.jpeg", "images/12-8-1-33-119000/3.jpeg", "images/12-8-1-33-119000/4.jpeg", "images/12-8-1-33-119000/5.jpeg", "images/12-8-1-33-119000/6.jpeg", "images/12-8-1-33-119000/7.jpeg", "images/12-8-1-33-119000/8.jpeg", "images/12-8-1-33-119000/9.jpeg", "images/12-8-1-33-119000/10.jpeg", "images/12-8-1-33-119000/11.jpeg", "images/12-8-1-33-119000/12.jpeg", "images/12-8-1-33-119000/13.jpeg", "images/12-8-1-33-119000/14.jpeg", "images/12-8-1-33-119000/15.jpeg", "images/12-8-1-33-119000/16.jpeg", "images/12-8-1-33-119000/17.jpeg", "images/12-8-1-33-119000/18.jpeg", "images/12-8-1-33-119000/19.jpeg", "images/12-8-1-33-119000/20.jpeg", "images/12-8-1-33-119000/21.jpeg"],
+    description: "Satılır 1 otaqlı yeni tikili 40 m² (kupça 33), Yasamal q." + "<br> </br> "+ "Yasamal rayonu, MİDA Yasamalda, Zefir mall yaxınlığında (3 saylı Asan xidmət aşağısında) 1 otaqlı mənzil satılır. Sənəd çıxarışdır, ipoteka üçün yararlıdır. 12 mərtəbəli binanın 8-ci mərtəbəsi, 40 m² (çıxarışda 33), ayrı mətbəx və 1 balkon. 2 sürətli lift var. Bina 2018-ci ildə tikilib. Giriş qapıları kodludur. Avtobus dayanacağına piyada 3 dəqiqəlik məsafədədir. Buradan 7, 9 və 10 nömrəli avtobuslar keçir. Elmlər və İnşaatçılar metrosuna avtobusla 10 dəqiqəlik yoldur. Rayon çox inkişaf etmiş, burada 2 məktəb, 2 uşaq bağçası, ərzaq və digər mağazalar, kafelər, ticarət mərkəzi, idman və uşaq meydançaları var. Qanlı gölünün kənarında sahil zonası. Kombi istilik sistemi, qaz, su, işıq 24/7, sürətli internet. Həyət daxilində və binanın arxasında geniş parkinq mövcuddur. Alqı-satqıdan sonra 1 həftə ərzində mənzili təhvil verməyə hazırdır. Mənzili 450-500 manata kirayə vermək mümkündür. Qiymət 119min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
+  {
+    id: 46,
+    title: "1 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "116000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 40, // kvadrat metr
+    rooms: 1,
+    status: "new",
+    image: ["images/9-4-1-33-116000/1.jpeg", "images/9-4-1-33-116000/2.jpeg", "images/9-4-1-33-116000/3.jpeg", "images/9-4-1-33-116000/4.jpeg", "images/9-4-1-33-116000/5.jpeg", "images/9-4-1-33-116000/6.jpeg", "images/9-4-1-33-116000/7.jpeg", "images/9-4-1-33-116000/8.jpeg", "images/9-4-1-33-116000/9.jpeg", "images/9-4-1-33-116000/10.jpeg"],
+    description: "Satılır 1 otaqlı yeni tikili 40 m² (kupça 33), Yasamal q." + "<br> </br> "+ "Yasamal rayonu, MİDA Yasamalda, Zefir mall yaxınlığında (3 saylı Asan xidmət aşağısında) 1 otaqlı mənzil satılır. Sənəd çıxarışdır, ipoteka üçün yararlıdır. 9 mərtəbəli binanın 4-cü mərtəbəsi, 40 m² (çıxarışda 33), ayrı mətbəx və 1 balkon. Avtobus dayanacağına piyada 3 dəqiqəlik məsafədədir. Buradan 7, 9 və 10 nömrəli avtobuslar keçir. Elmlər və İnşaatçılar metrosuna avtobusla 10 dəqiqəlik yoldur. Rayon çox inkişaf etmiş, burada 2 məktəb, 2 uşaq bağçası, ərzaq və digər mağazalar, kafelər, ticarət mərkəzi, idman və uşaq meydançaları var. Qanlı gölünün kənarında sahil zonası. Kombi istilik sistemi, qaz, su, işıq 24/7, sürətli internet. Həyət daxilində və binanın arxasında geniş parkinq mövcuddur. Qiymət 116min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
