@@ -753,7 +753,7 @@ const listings = [
     rooms: 2,
     status: "new",
     image: ["images/16-7-72-215000/1.jpeg", "images/16-7-72-215000/2.jpeg", "images/16-7-72-215000/3.jpeg", "images/16-7-72-215000/4.jpeg", "images/16-7-72-215000/5.jpeg", "images/16-7-72-215000/6.jpeg", "images/16-7-72-215000/7.jpeg", "images/16-7-72-215000/8.jpeg", "images/16-7-72-215000/9.jpeg", "images/16-7-72-215000/10.jpeg"],
-    description: "Satılır 2 otaqlı yeni tikili 85 m², Nəsimi r." + "<br> </br> "+ "Nəsimi rayonu, H. Əliyev küçəsində (XİM QARADOK-İlin 4 fəsli MTK) 16 mərtəbəli binanın 7-ci mərtəbəsində 72 kv 2 otaqlı mənzil satılır. İstilik sistemi - KOMBİ. Mənzildə olan əşyalar qalacaq. Real alıcıya endirim olunacaq. Ofisin xidmət haqqı 1 %",
+    description: "Satılır 2 otaqlı yeni tikili 72 m², Nəsimi r." + "<br> </br> "+ "Nəsimi rayonu, H. Əliyev küçəsində (XİM QARADOK-İlin 4 fəsli MTK) 16 mərtəbəli binanın 7-ci mərtəbəsində 72 kv 2 otaqlı mənzil satılır. İstilik sistemi - KOMBİ. Mənzildə olan əşyalar qalacaq. Real alıcıya endirim olunacaq. Ofisin xidmət haqqı 1 %",
   
   },
 ];
