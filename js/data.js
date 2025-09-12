@@ -756,4 +756,19 @@ const listings = [
     description: "Satılır 2 otaqlı yeni tikili 72 m², Nəsimi r." + "<br> </br> "+ "Nəsimi rayonu, H. Əliyev küçəsində (XİM QARADOK-İlin 4 fəsli MTK) 16 mərtəbəli binanın 7-ci mərtəbəsində 72 kv 2 otaqlı mənzil satılır. İstilik sistemi - KOMBİ. Mənzildə olan əşyalar qalacaq. Real alıcıya endirim olunacaq. Ofisin xidmət haqqı 1 %",
   
   },
+
+  {
+    id: 51,
+    title: "4 otaqlı mənzil - Mida Yasamal",
+    type: "satış",
+    price: "265000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 110, // kvadrat metr
+    rooms: 4,
+    status: "new",
+    image: ["images/9-4-4-110-265000/1.jpeg", "images/9-4-4-110-265000/2.jpeg", "images/9-4-4-110-265000/3.jpeg", "images/9-4-4-110-265000/4.jpeg", "images/9-4-4-110-265000/5.jpeg", "images/9-4-4-110-265000/6.jpeg", "images/9-4-4-110-265000/7.jpeg", "images/9-4-4-110-265000/8.jpeg", "images/9-4-4-110-265000/9.jpeg"],
+    description: "Satılır 4 otaqlı yeni tikili 110 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, MİDA Yasamal Yaşayış Kompleksində, Zefir Mall ticarət mərkəzi, 161 və 133 nömrəli məktəblərin yaxınlığında yerləşən 9 mərtəbəli binanın 4-cü mərtəbəsində 110 kvadrat metr sahəyə malik, qanuni 4 otaqlı mənzil satılır. Mənzil qaz, su, işıq, lift və internetlə daimi təmin olunub. Sənədləri tam qaydasındadır. Bina geniş və səliqəli həyətə, park sahəsinə, besetkaya, pulsuz stadion və avtomobil saxlamaq üçün dayanacaq yerinə malikdir. Ərazi 24/7 kamera müşahidəsi altındadır və komendant tərəfindən nəzarət olunur. Blok və həyət hər gün mütəmadi şəkildə təmizlənir. Nəqliyyat baxımından əlverişli yerdə yerləşir – 7B, 9 və 10 nömrəli avtobus xətləri binanın yaxınlığından keçir. Qiymət 265min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
 ];
