@@ -804,5 +804,20 @@ const listings = [
   
   },
 
+     {
+    id: 55,
+    title: "2 otaqlı mənzil - Park Kristal Yasamal 1",
+    type: "satış",
+    price: "165000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 65, // kvadrat metr
+    rooms: 2,
+    status: "new",
+    image: ["images/9-1-2-65-165000/1.jpeg", "images/9-1-2-65-165000/2.jpeg", "images/9-1-2-65-165000/3.jpeg", "images/9-1-2-65-165000/4.jpeg", "images/9-1-2-65-165000/5.jpeg", "images/9-1-2-65-165000/6.jpeg", "images/9-1-2-65-165000/7.jpeg", "images/9-1-2-65-165000/8.jpeg", "images/9-1-2-65-165000/9.jpeg"],
+    description: "Park Kristal Yasamal 1, Zefir Mall, 161 və 133 nömrəli məktəbin yanında 9 Mərtəbəli binanin 1-ci mərtəbəsində 65kv olan 2 otaq təmirli və əşyalı mənzil satılır. Qanuni 2 otaqdır. Çıxarış (Kupça), texpasport var. Sənədləri qaydasındadır. Kombi sistemi, Qaz, su, işıq, lift və internet daim var. Binanın geniş həyəti, parkı, besetkası, pulsuz stadionu və maşın saxlamağa yeri var. Kamera muhafizəsi var, komendat nəzarət edir. Həyət, blok hər gün təmizlənir. 7B, 9 və 10 nömrəli avtobuslar binanın yanından keçir. Qiymət 165min manat. Ofisin xidmət haqqı 1 % təşkil edir",
+  
+  },
+
 
 ];
