@@ -999,4 +999,19 @@ const listings = [
   
   },
 
+  {
+    id: 68,
+    title: "3 otaqlı mənzil - Yasamal Yaşayış Kompleksi",
+    type: "satış",
+    price: "232000 AZN",
+    location: "Bakı, Yasamal",
+    district: "Yasamal",
+    area: 84, // kvadrat metr
+    rooms: 3,
+    status: "new",
+    image: ["images/12-2-3-84-232000/1.jpeg", "images/12-2-3-84-232000/2.jpeg", "images/12-2-3-84-232000/3.jpeg", "images/12-2-3-84-232000/4.jpeg", "images/12-2-3-84-232000/5.jpeg", "images/12-2-3-84-232000/6.jpeg", "images/12-2-3-84-232000/7.jpeg", "images/12-2-3-84-232000/8.jpeg", "images/12-2-3-84-232000/9.jpeg", "images/12-2-3-84-232000/10.jpeg", "images/12-2-3-84-232000/11.jpeg", "images/12-2-3-84-232000/12.jpeg"],
+    description: "Satılır 3 otaqlı yeni tikili 84 m², Yasamal q." + "<br> </br> "+ "Yasamal rayonu, Yasamal Yaşayış Kompleksində, Zefir Mall ticarət mərkəzi, 161 və 133 nömrəli məktəblərin yaxınlığında yerləşən 12 mərtəbəli binanın 2-ci mərtəbəsində 84 kvadrat metr sahəyə malik, qanuni 3 otaqlı, əla təmirli mənzil satılır. Mənzil qaz, su, işıq, lift və internetlə daimi təmin olunub. Sənədləri tam qaydasındadır. Bütün əşyalar mənzildə qalacaq. Bina geniş və səliqəli həyətə, park sahəsinə, besetkaya, pulsuz stadion və avtomobil saxlamaq üçün dayanacaq yerinə malikdir. Ərazi 24/7 kamera müşahidəsi altındadır və komendant tərəfindən nəzarət olunur. Blok və həyət hər gün mütəmadi şəkildə təmizlənir. Nəqliyyat baxımından əlverişli yerdə yerləşir – 7B, 9 və 10 nömrəli avtobus xətləri binanın yaxınlığından keçir. Qiymət 232min manat. Ofisin xidmət haqqı 1 %",
+  
+  },
+
 ];
